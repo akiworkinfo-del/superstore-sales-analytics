@@ -8,17 +8,17 @@ data/raw/*.zip
 *.dsc
 *.lst
 
-# Power BI files (large files)
+# Power BI files
 *.pbix
 *.pbit
 
-# Python cache
+# Python
 __pycache__/
 *.pyc
 *.pyo
 .ipynb_checkpoints/
 
-# Logs and temporary files
+# Logs and temp
 logs/
 *.tmp
 *.log
