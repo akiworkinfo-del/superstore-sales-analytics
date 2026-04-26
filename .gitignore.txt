@@ -1,0 +1,28 @@
+# Large data files - Do NOT commit raw CSVs
+data/raw/*.csv
+data/raw/*.zip
+
+# Oracle SQL Loader files
+*.log
+*.bad
+*.dsc
+*.lst
+
+# Power BI files (large files)
+*.pbix
+*.pbit
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Logs and temporary files
+logs/
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
