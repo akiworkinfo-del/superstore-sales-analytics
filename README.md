@@ -1,5 +1,3 @@
----
-
 ## 👩‍💻 Author
 
 **Akilandeswari Rajendran**  
@@ -10,5 +8,5 @@
 
 ---
 
-> ⭐ If you found this project helpful, please consider giving it a **star** on GitHub!  
-> Feel free to open an issue or reach out for feedback, questions, or collaboration.
+> ⭐ If you found this project helpful, please consider giving it a star on GitHub!  
+> Feel free to reach out for feedback or collaboration.
